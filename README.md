@@ -10,5 +10,4 @@
 <p align="center">
 <a href="https://www.github.com/TheMiran" target"blank_"><img src="https://img.shields.io/badge/TheMiran-191717?&style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://discord.com/users/261451981342638080" target"blank_"><img src="https://img.shields.io/badge/M İ R A N-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://www.instagram.com/miranadaliii" target"blank_"><img src="https://img.shields.io/badge/TheMiran-DC3175?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <hr/>
